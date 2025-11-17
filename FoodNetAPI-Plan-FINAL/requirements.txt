@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+nest-asyncio
+pyngrok
+tensorflow
+pillow
+python-multipart

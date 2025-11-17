@@ -1,0 +1,15 @@
+[
+  {
+    "name_ar": "تفاح",
+    "name_en": "Apple",
+    "ingredients": [
+      "تفاح"
+    ],
+    "nutrition": {
+      "calories": 52,
+      "protein_g": 0.3,
+      "fat_g": 0.2,
+      "carbs_g": 14
+    }
+  }
+]
